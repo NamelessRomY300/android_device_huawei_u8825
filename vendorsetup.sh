@@ -1,1 +1,1 @@
-add_lunch_combo mahdi_u8825-userdebug
+add_lunch_combo nameless_u8825-userdebug
